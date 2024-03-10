@@ -30,9 +30,6 @@ This project is a contact list application built using React as a part of the Co
 
 ### Navbar.js
 
-
-```
-
 ## Redux
 
 ### contactReducer.js
